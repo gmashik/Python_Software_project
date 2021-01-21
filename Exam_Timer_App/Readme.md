@@ -1,2 +1,0 @@
-##Exam Timer App#
-$$d$$
