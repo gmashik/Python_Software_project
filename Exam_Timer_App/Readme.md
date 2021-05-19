@@ -6,4 +6,4 @@
 
 <p> In this app the default time for exam is 2 minutes and the default time for short and long time is 1 minute. Before starting we recommend you to set the time by pressing "Set time" button. Then you can press "Strat" to start the exam. a green tick is represinting for individual exam. The exam can be paused. However, during the running process the "Strat" and " Set time button will not work. it will display an error message. </p>
 
-<p> Any recommendation or technical difficulties should be reported at gmarahma@uwaterloo.ca </p>
+<p> Any recommendation or technical difficulties should be reported at <b>gmarahma@uwaterloo.ca</b> </p>
