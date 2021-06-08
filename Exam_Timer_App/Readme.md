@@ -1,4 +1,4 @@
-<h1> Exam Timer APP</h1>
+<h1> Voice Based Exam Timer APP</h1>
 
 <p> This python app is designed based on the exam procedure at the University of Waterloo. This software will provide more flexibility to the registrar. The will automatically keep track of the timing and it will announce on behalf of the proctor. There is a short break between two exams and a long break after two completed exams. This is not only a software for time tracking but also can be used as a digital calender.  </p>
 
